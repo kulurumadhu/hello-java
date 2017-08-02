@@ -1,0 +1,4 @@
+Id name salary
+1   kumar 10000
+2   ram   20000
+3   sudhan30000 
